@@ -1,0 +1,33 @@
+/* ---Title: Stylesheet Template | Author: Simone ---*/
+
+body {
+	background: #efefef;
+	font-size: 16px;
+	margin:0;
+}
+
+a  {
+	color:blue;
+	text-decoration:none;
+}
+
+a:hover {
+	color: lightblue;
+}
+
+
+/* Layout 
+---------------------------*/
+
+header,
+.container,
+footer {
+	margin: 0 auto;
+	width: 88%;
+	max-width:960px;
+}
+
+.wrapper{
+	padding:1em 0;
+	background: #fff;
+}
