@@ -103,7 +103,7 @@ img {
 }
 
 
-/*-- Transformations --*/
+c
 
 .rotate:hover img {
 	-webkit-transform: rotate(-10deg);
@@ -122,3 +122,52 @@ img {
 	transform: scale(.8);
 	transition: all 1s ease-in-out;
 }
+
+
+/*-- Background Images-*/
+
+.overlay {
+	background: url(images/mist-morning.jpg);
+	background-size:cover;
+	width:800px;
+	height:800px;
+}
+
+.overlay span{
+	background:url(images/pattern3.png);
+	width:100%;
+	height:100%;
+	display:block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
